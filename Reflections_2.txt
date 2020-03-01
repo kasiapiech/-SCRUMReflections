@@ -1,0 +1,1 @@
+TDD to podejście do tworzenia oprogramowania. Podejście to zakłada, że przed napisaniem właściwej funkcjonalności programista zaczyna od utworzenia testu. Test ten powinien testować funkcjonalność, którą dopiero chcemy napisać.

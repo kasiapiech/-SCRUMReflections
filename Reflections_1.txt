@@ -1,0 +1,1 @@
+Wymóg funkcjonalny opisuje, co powinien zrobić system oprogramowania, podczas gdy wymagania niefunkcjonalne ograniczają sposób, w jaki system to zrobi.
